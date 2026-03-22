@@ -1,0 +1,7 @@
+{
+  "name": "frontend-exchanger-test",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp index.html dist/"
+  }
+}
